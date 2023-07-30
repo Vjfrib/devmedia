@@ -12,3 +12,4 @@ pretendo fazer aqui uma integação de:
 [[question]]: qual a logica do `php -S 0.0.0.0:8000 -t`?
 
 (no obs)
+vou refazer
